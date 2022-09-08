@@ -6,8 +6,7 @@ namespace FuncaoElevado
     {
         static void Main(string[] args)
         {
-            //Difícil 27. Escreva uma função que recebe, por parâmetro, dois valores X e Z e calcula e retorna X^Z . (sem utilizar funções ou operadores de potência prontos)
-
+            
             Console.WriteLine("Escreva dois valores, X e Z, para que receba o valor X^Z");
             double valorX = double.Parse(Console.ReadLine());
             double valorZ = double.Parse(Console.ReadLine());
