@@ -1,0 +1,32 @@
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.exe
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.deps.json
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.runtimeconfig.json
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.dll
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.pdb
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.dll
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\refint\FuncaoElevado.dll
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.pdb
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Exercicios\FuncaoElevado\obj\Debug\net5.0\ref\FuncaoElevado.dll
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.exe
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.deps.json
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.runtimeconfig.json
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.runtimeconfig.dev.json
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.dll
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\bin\Debug\net5.0\FuncaoElevado.pdb
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.AssemblyInfo.cs
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.dll
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\refint\FuncaoElevado.dll
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.pdb
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\FuncaoElevado.genruntimeconfig.cache
+C:\Users\mathe\Documents\TopCoders\Coding Tank\Exercicios\FuncaoElevado\obj\Debug\net5.0\ref\FuncaoElevado.dll
