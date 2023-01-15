@@ -7,7 +7,7 @@ namespace FuncaoElevado
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Escreva dois valores, X e Z, para que receba o valor X^Z");
+            Console.WriteLine("Escreva dois valores, X e Y, para que receba o valor X^Y");
             double valorX = double.Parse(Console.ReadLine());
             double valorZ = double.Parse(Console.ReadLine());
             double valorXZ;
@@ -16,7 +16,7 @@ namespace FuncaoElevado
                 case 0:
                 {
                     valorXZ = 1;
-                    Console.WriteLine($"X^Z = {valorXZ}");
+                    Console.WriteLine($"X^Z = {valorXY}");
                     break;
                 }
                 
